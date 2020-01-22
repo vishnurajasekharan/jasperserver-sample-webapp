@@ -67,7 +67,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JasperServer Web Services Sample</title>
+        <title>JasperServer Web Services Sample Test</title>
     </head>
     <body>
 
